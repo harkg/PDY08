@@ -1,0 +1,2 @@
+C:\Users\azndu\Desktop\UWT\TINFO431\contoso-c08-master\contoso-c08-master\ContosoUniversity.Tests\obj\Release\ContosoUniversity.Tests.csprojResolveAssemblyReference.cache
+C:\Users\azndu\Desktop\UWT\TINFO431\contoso-c08-master\contoso-c08-master\ContosoUniversity.Tests\obj\Release\ContosoUniversity.Tests.csproj.CoreCompileInputs.cache
